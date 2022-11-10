@@ -1,0 +1,15 @@
+E:\Amdaris\Exceptions_Debugging\ExceptionsDebugging\ExceptionsDebugging\bin\Release\net6.0\ExceptionsDebugging.exe
+E:\Amdaris\Exceptions_Debugging\ExceptionsDebugging\ExceptionsDebugging\bin\Release\net6.0\ExceptionsDebugging.deps.json
+E:\Amdaris\Exceptions_Debugging\ExceptionsDebugging\ExceptionsDebugging\bin\Release\net6.0\ExceptionsDebugging.runtimeconfig.json
+E:\Amdaris\Exceptions_Debugging\ExceptionsDebugging\ExceptionsDebugging\bin\Release\net6.0\ExceptionsDebugging.dll
+E:\Amdaris\Exceptions_Debugging\ExceptionsDebugging\ExceptionsDebugging\bin\Release\net6.0\ExceptionsDebugging.pdb
+E:\Amdaris\Exceptions_Debugging\ExceptionsDebugging\ExceptionsDebugging\obj\Release\net6.0\ExceptionsDebugging.csproj.AssemblyReference.cache
+E:\Amdaris\Exceptions_Debugging\ExceptionsDebugging\ExceptionsDebugging\obj\Release\net6.0\ExceptionsDebugging.GeneratedMSBuildEditorConfig.editorconfig
+E:\Amdaris\Exceptions_Debugging\ExceptionsDebugging\ExceptionsDebugging\obj\Release\net6.0\ExceptionsDebugging.AssemblyInfoInputs.cache
+E:\Amdaris\Exceptions_Debugging\ExceptionsDebugging\ExceptionsDebugging\obj\Release\net6.0\ExceptionsDebugging.AssemblyInfo.cs
+E:\Amdaris\Exceptions_Debugging\ExceptionsDebugging\ExceptionsDebugging\obj\Release\net6.0\ExceptionsDebugging.csproj.CoreCompileInputs.cache
+E:\Amdaris\Exceptions_Debugging\ExceptionsDebugging\ExceptionsDebugging\obj\Release\net6.0\ExceptionsDebugging.dll
+E:\Amdaris\Exceptions_Debugging\ExceptionsDebugging\ExceptionsDebugging\obj\Release\net6.0\refint\ExceptionsDebugging.dll
+E:\Amdaris\Exceptions_Debugging\ExceptionsDebugging\ExceptionsDebugging\obj\Release\net6.0\ExceptionsDebugging.pdb
+E:\Amdaris\Exceptions_Debugging\ExceptionsDebugging\ExceptionsDebugging\obj\Release\net6.0\ExceptionsDebugging.genruntimeconfig.cache
+E:\Amdaris\Exceptions_Debugging\ExceptionsDebugging\ExceptionsDebugging\obj\Release\net6.0\ref\ExceptionsDebugging.dll
